@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\bin\Debug\Space Invader.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\bin\Debug\Space Invader.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\bin\Debug\Space Invader.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\bin\Debug\Space Invader.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\obj\Debug\Space_Invader.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\obj\Debug\Space_Invader.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\obj\Debug\Space Invader.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\obj\Debug\Space Invader.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\obj\Debug\Space Invader.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\obj\Debug\Space Invader.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\Space Invader\Space Invader\obj\Debug\Space_Invader.Form2.resources
